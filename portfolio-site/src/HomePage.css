@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@500&display=swap');
+
+.name-container {
+    position: relative;
+    left: 200px;
+    right: 50px;
+    top: 300px;
+    display: inline-block;
+  }
+  
+  .name-shadow {
+    position: absolute;
+    font-size: 10em;
+    left: 17px;
+    font-weight: bold;
+    color: black;
+    font-family: 'Teko', sans-serif;
+  }
+  
+  .name-highlight {
+    position: absolute;
+    font-size: 10em;
+    font-weight: bold;
+    color: #D49639;
+    z-index: 1;
+    font-family: 'Teko', sans-serif;
+  }
+  

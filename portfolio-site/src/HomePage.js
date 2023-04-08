@@ -1,16 +1,13 @@
 import React from 'react';
+import './HomePage.css';
 
 function HomePage() {
     return (
-        <div>
-            <h1>Welcome to my portfolio website!</h1>
-            <p>Here you will find information about my father's professional music career.</p>
+        <div className="name-container">
+            <div className="name-shadow">LUIS VILLEGAS</div>
+            <div className="name-highlight">LUIS VILLEGAS</div>
         </div>
     );
 }
-
-
-
-
 
 export default HomePage;
