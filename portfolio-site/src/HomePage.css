@@ -11,9 +11,9 @@
   .name-shadow {
     position: absolute;
     font-size: 10em;
-    left: 17px;
+    top: 12px;
     font-weight: bold;
-    color: black;
+    color: #7C4A29;
     font-family: 'Teko', sans-serif;
   }
   
@@ -21,7 +21,7 @@
     position: absolute;
     font-size: 10em;
     font-weight: bold;
-    color: #D49639;
+    color: #D3A651;
     z-index: 1;
     font-family: 'Teko', sans-serif;
   }
